@@ -1,6 +1,6 @@
 
-$http_proxy = "http://127.0.0.1:10809"
-# $http_proxy = $null
+# $http_proxy = "http://127.0.0.1:10809"
+$http_proxy = $null
 $apiKey = $Env:OPENAI_API_KEY
 $baseUrl = "https://api.openai.com/v1/chat/completions"
 $input = ""
