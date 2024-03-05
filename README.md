@@ -1,3 +1,5 @@
+使用ChatGPT能力快速执行cmd命令
+
 Step:
 
 1.下载项目
