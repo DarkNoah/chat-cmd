@@ -20,3 +20,6 @@ git clone https://github.com/DarkNoah/chat-cmd
 ![image](https://github.com/DarkNoah/chat-cmd/assets/13805682/73dea9ff-8140-4b1c-8186-ad1621b021b2)
 
 ![image](https://github.com/DarkNoah/chat-cmd/assets/13805682/1bf86991-8bdb-41b3-aa57-f495952c7394)
+
+注意:使用网络代理请更改 如:
+$http_proxy = "http://127.0.0.1:10809"
